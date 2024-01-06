@@ -16,8 +16,8 @@ Inicio
            FimPara
       FimPara
       
-      Para l <- 1 até 100 faca
-           Para c <- 1 até 100 faca
+      Para l <- 1 até 3 faca
+           Para c <- 1 até 2 faca
                 Escreva(mat[l,c])
            FimPara
          Escreval()
